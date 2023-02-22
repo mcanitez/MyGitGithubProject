@@ -17,6 +17,6 @@ public class AtmApp {
 
         System.out.println("bazı değişiklikler yaptım,ancak commitlemedim.");
 
-        System.out.println("");
+        System.out.println("yeni değşiklikler");
     }
 }
