@@ -11,5 +11,8 @@ public class AtmApp {
 
         //master
         System.out.println("Master branchinde yeni özellikler var");
+
+        //mstf3
+        System.out.println("mustafa branchi bir adım önde");
     }
 }
