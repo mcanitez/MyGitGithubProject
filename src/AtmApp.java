@@ -16,5 +16,7 @@ public class AtmApp {
         System.out.println("mustafa branchi bir adım önde");
 
         System.out.println("bazı değişiklikler yaptım,ancak commitlemedim.");
+
+        System.out.println("");
     }
 }
