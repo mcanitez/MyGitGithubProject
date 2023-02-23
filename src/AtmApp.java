@@ -18,5 +18,6 @@ public class AtmApp {
         System.out.println("bazı değişiklikler yaptım,ancak commitlemedim.");
 
         System.out.println("yeni değşiklikler");
+        System.out.println("master branchindeyim");
     }
 }
